@@ -1,1 +1,1 @@
-console.log('remote update successful');
+console.log('2pm update');
